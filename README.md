@@ -1,3 +1,3 @@
 # tutorial
 Repository fro learning purposes
-добавил строку из onegit
+\n add one line from onegit
