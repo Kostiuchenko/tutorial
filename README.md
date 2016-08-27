@@ -1,6 +1,6 @@
 # tutorial
-# Repository fro learning purposes
-# \n add one line from onegit
+# Repository for learning purposes
+# add one line from onegit
 function sum (a,b){
 
 	return a*b;
