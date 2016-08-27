@@ -1,4 +1,9 @@
 # tutorial
 Repository fro learning purposes
-\n add one line from onegit
+add one line from onegit
 
+function minus(a,b){
+	return a-b;
+}
+
+minus(4,2);
